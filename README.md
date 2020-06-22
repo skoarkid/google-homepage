@@ -1,0 +1,1 @@
+This project is a replica of the Google homepage. HTML and CSS were used in the process of developing this page.
